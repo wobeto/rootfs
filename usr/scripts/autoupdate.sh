@@ -6,7 +6,7 @@
 # Depends on curl, jq (json parser), openssl (SHA calculation)
 
 # owner name and repo name
-REPO="Dafang-Hacks/rootfs"
+REPO="wobeto/rootfs"
 # Branch to use
 BRANCH="master"
 # Initial remote folder
