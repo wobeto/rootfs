@@ -1,3 +1,5 @@
+etc/wpa_supplicant.conf
+proc/*
 var/log/*
 var/run/*
 etc/*.conf
@@ -7,3 +9,4 @@ etc/lighttpd.pem
 etc/TZ
 .ssh/*
 .idea/*
+Xiaomi-Dafang-Hacks
