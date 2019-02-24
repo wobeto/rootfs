@@ -1,5 +1,4 @@
 etc/wpa_supplicant.conf
-proc/*
 var/log/*
 var/run/*
 etc/*.conf
